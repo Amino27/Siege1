@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\New folder"
+		},
+		{
+			"path": "..\\trex\\Trex_Stage_3_2021_05_08_08_55_19"
+		},
+		{
+			"path": "..\\trex\\Project_Template_copy_copy_2021_05_13_05_11_06"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New folder"
+	}
+}
